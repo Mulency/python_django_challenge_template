@@ -47,3 +47,5 @@ Build image
 `docker build -t turing_app .` 
 
 
+## Submission
+Please email link to your public repo to the point of contact that sent link to this challenge 1 week after recieving the email of invitation.
